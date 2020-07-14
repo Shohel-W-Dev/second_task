@@ -1,0 +1,45 @@
+.section1{
+	height: 230px;
+	background: #f4f4f4;
+	padding: 0px 20px;
+}
+.section2{
+	height: 260px;
+	background: #f7f7f7;
+	padding: 0px 20px;
+}
+.section3{
+	height: ;
+	padding: 0px 20px;
+}
+.section4{
+	background: #f4f4f4;
+}
+/*======== HTML TABLE ===========*/
+.section5{
+	background: #f1f1c1;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  }
+  th, td{
+  	padding: 20px;
+  }
+
+  .section6{
+  	background: lightgray;
+  	padding: 20px 10px;
+  }
+  #id{
+  	text-align: center;
+  	background: orange;
+  	padding: 10px;
+  	color: #fff;
+  }
+  .class{
+  	text-align: center;
+  	background: maroon;
+  	padding: 10px;
+  	color: #fff;
+  }
